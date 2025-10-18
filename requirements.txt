@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+pandas
+plotly
+firebase-admin   # optional (only if you want cloud logging)
+plyer            # optional (desktop notifications)
